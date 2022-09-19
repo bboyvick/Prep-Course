@@ -70,8 +70,14 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 }
 #elementoTres{
     align-self: flex-start;
+    background-color: red;
 }
 #elementoDos{
     align-self: flex-end;
     flex-direction: column-reverse;
+    background-color: aqua;
+}
+#elementoUno{
+    background-color:yellowgreen;
+
 }
